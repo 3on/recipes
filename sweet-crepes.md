@@ -1,4 +1,4 @@
-* 250g floor
+* 250g flour
 * 500ml milk
 * 4 eggs
 * 50g butter
