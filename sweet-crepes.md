@@ -3,4 +3,4 @@
 * 4 eggs
 * 50g butter
 * vanilla sugar or extract
-* amaretto or ruhm (as much as you it sounds good)
+* amaretto or rum (as much as you like)
