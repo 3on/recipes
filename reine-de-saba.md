@@ -1,6 +1,6 @@
-#Reine de Saba
+# Reine de Saba
 
-##Ingredients
+## Ingredients
 * 200g sugar
 * 200g butter
 * 200g chocolate
