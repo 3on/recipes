@@ -1,4 +1,4 @@
-**Ratio for a shit ton like 60+ cookies**
+**Ratio for shit tons (60+) cookies**
 
 * 8 cup floor
 * 4 cup sugar 50/50 brown sugar
