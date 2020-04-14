@@ -1,6 +1,8 @@
-# Rad fluffy Waffle aka for ever growing dough
+# Rad fluffy Waffle
+aka for ever growing dough
 
-## Ingredients for n people where n is not too big nor too small
+## Ingredients for n people*
+*\*where n is not too big nor too small*
 - 2 eggs
 - 500ml of milk
 - flour 250g
