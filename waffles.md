@@ -1,4 +1,4 @@
-# Rad fluffy Waffle
+# Rad fluffy waffles
 aka for ever growing dough
 
 ## Ingredients for n people*
