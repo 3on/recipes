@@ -6,6 +6,7 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 - [Lava cake](https://github.com/3on/recipes/blob/master/lava-cakes.md)
 - [Tarte aux Pommes](https://github.com/3on/recipes/blob/master/tarte-aux-pommes.md)
 - [Waffles](https://github.com/3on/recipes/blob/master/waffles.md)
+- [Reine de Sabat](https://github.com/3on/recipes/blob/master/reine-de-saba.md)
 
 ## Work in Progress
 - Quiche
