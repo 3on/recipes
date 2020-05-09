@@ -12,7 +12,7 @@ _this is a two for the price of one, pate sablée is my favorite pie crust and i
 - some cinamon of lemon zest
 
 ## Steps
-* In a bowl, mix the flour and the butter at room temperature and cut into dice
+* In a bowl, mix the flour and the butter at room temperature and cut into dices
 ![](https://raw.githubusercontent.com/3on/recipes/master/img/pate-brisee-1.jpg)
 * Once you get a "wet sand" texture, add cinamon, yolks, sugar and amaretto. Knead the dough until it is homogeneous but don't over do it. You should get a ball that is not sticky nor dry.
 ![](https://raw.githubusercontent.com/3on/recipes/master/img/pate-brisee-2.jpg)
