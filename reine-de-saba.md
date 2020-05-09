@@ -1,11 +1,13 @@
 # Reine de Saba
 
+![](https://raw.githubusercontent.com/3on/recipes/master/img/reine-de-saba.jpg)
+
 ## Ingredients
-* 200g sugar
-* 200g butter
-* 200g chocolate
+* 200g of white sugar
+* 200g of butter
+* 200g of chocolate
 * 6 eggs
-* 100g flour
+* 100g of flour
 * 10cc of strong coffee
 
 ## Steps
