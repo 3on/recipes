@@ -1,6 +1,6 @@
 **Ratio for shit tons (60+) cookies**
 
-* 8 cup floor
+* 8 cup flour
 * 4 cup sugar 50/50 brown sugar
 * 400 butter (4 stick)
 * baking powder, a bit can be forgotten not sure I even care for it that much
