@@ -1,7 +1,8 @@
-# Lava cake
+# 👙🎂 Lava cake
 _AKA panty droppers_
 
 ##Ingredients**
+
 _This is for a small batch, 10 or less, I usually do x2 to x4 and froze the dough_
 - 100g of 70% chocolate
 - 120g of sugar
