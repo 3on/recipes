@@ -1,17 +1,40 @@
-# Tarte aux pommes de Maman
+# Tarte aux pommes de 'man
+_this is a two for the price of one, pate sablée is my favorite pie crust and it's easy to make_
 
-## Pate sablé
-- 250g de farine
-- 120g de beurre
-- 80g de sucre
-- 2 jaunes d'oeufs
-- 1 cuillère d' eau ou de marsala ou d'amaretto
-- un peu de cannelle ou le zeste d'un citron râpé
+# Pate sablée
+
+## Ingredients
+- 250g of flour
+- 120g of butter
+- 80g of sugar
+- 2 yolks (whites can be used to make [financiers](https://github.com/3on/recipes/blob/master/financiers.md))
+- 1 table spoon of water or amaretto
+- some cinamon of lemon zest
+
+## Steps
+* In a bowl, mix the flour and the butter at room temperature and cut into dice
+![](https://raw.githubusercontent.com/3on/recipes/master/img/pate-brisee-1.jpg)
+* Once you get a "wet sand" texture, add cinamon, yolks, sugar and amaretto. Knead the dough until it is homogeneous but don't over do it. You should get a ball that is not sticky nor dry.
+![](https://raw.githubusercontent.com/3on/recipes/master/img/pate-brisee-2.jpg)
+* Let it rest for a bit in the fridge (while you work on the filling)
+![](https://raw.githubusercontent.com/3on/recipes/master/img/pate-brisee-3.jpg)
 
 
+# Tarte aux Pommes
 
-Dans un saladier mettre la farine, y ajouter le beurre ,coupé en petits morceaux et ramolli à température ambiante ou légèrement au micro-ondes.Travaillez le mélange du bout des doigts pour obtenir un ensemble ensuite le sucre ,la cannelle(ou le zeste de citron râpé),les jaunes d'oeufs et la cuillère d'eau ou d'autre bien la pâte pour la rendre homogène mais sans trop la malaxer puis la mettre sous un film alimentaire 1 heure au frigo le temps de préparer les pommes.
+## Ingredients
+- 7 big apples
+- butter
+- sugar
+- strawberry jam
 
-Pour les pommes: en couper 3 belles épluchées en petits morceaux que l'on fait fondre avec un peu de beurre et de sucre dans une sauteuse .
-
-Coupez ensuite 4 belles pommes épluchées en fines lamelles et les déposer sur le fond de tarte (préalablement étalé dans le moule)recouvert du fondu de  �� tes casseroles et bon appétit  . MAMAN     
+## Steps
+1. Peel and dice 3 apples. Caramelized them in a pan with butter and sugar.
+1. Take the dough out of the fridge, flatten it by hand in a tarte/pie pan which you greased with butter first, use you knokkels to make the edges.
+1. Spread the caramelized apple from step #1
+![](https://raw.githubusercontent.com/3on/recipes/master/img/tarte-aux-pommes-1.jpg)
+1. Thinly slice 4 apples. Place them over.
+![](https://raw.githubusercontent.com/3on/recipes/master/img/tarte-aux-pommes-2.jpg)
+1. Bake at 400F for _mmh I forgot, not long 15min or so max_
+1. Spread a bit of strawberry (or any other berry jam) on top
+![](https://raw.githubusercontent.com/3on/recipes/master/img/tarte-aux-pommes-3.jpg)
