@@ -1,4 +1,4 @@
-# 👙🎂 Lava cake
+# Lava cake
 _AKA panty droppers_
 
 ## Ingredients
