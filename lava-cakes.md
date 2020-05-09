@@ -1,4 +1,4 @@
-# Lava cake
+# Lava cakes
 _AKA panty droppers_
 
 ## Ingredients
