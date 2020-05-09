@@ -8,7 +8,7 @@
 * 100g flour
 * 10cc of strong coffee
 
-
+## Steps
 1. Mix Yolks and sugar until they whiten
 2. Melt butter and chocolate, then add coffee
 3. Beat the crap of the egg white until you have a solid white foam
