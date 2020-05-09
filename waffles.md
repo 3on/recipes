@@ -26,6 +26,8 @@ _where n is not too big nor too small_
     * yeast and baking powder if you are going for double fun (quick and slow)
     * vanilla extract
     * sugar
+    
     _Pro tip: to get a smooth batter, use a mixer._
 4. Fold the white in snow into the mix
-  _Pro tip: don't ever mix, slowly fold._
+
+   _Pro tip: don't ever mix, slowly fold._
