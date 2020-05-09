@@ -1,8 +1,10 @@
 # Rad fluffy waffles
-aka for ever growing dough
+_AKA for ever growing dough_
+
+![](https://raw.githubusercontent.com/3on/recipes/master/img/gauffres-1.jpg)
 
 ## Ingredients for n people*
-*\*where n is not too big nor too small*
+_where n is not too big nor too small_
 - 2 eggs
 - 500ml of milk
 - flour 250g
