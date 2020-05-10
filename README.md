@@ -13,3 +13,6 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 - Bourguignon
 - Risotto
 - Crepe de froment (I need to fix the milk amount)
+- Garlic Noodles
+- Boeuf bourguignon
+- Agua Fresca
