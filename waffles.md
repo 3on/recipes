@@ -11,7 +11,7 @@ _where n is not too big nor too small_
 - vanilla extract
 - 75g of butter
 - one tablespoon of sugar
-- yeast 15g (I usually go fully random there for fun)
+- yeast 15g (I usually go fully random there for fun) _if you add too much and leave the dough out it will grow faster than you can eat them_
 - baking powder (only needed if you can't wait for the dough to grow to get some first waffles)
 
 
