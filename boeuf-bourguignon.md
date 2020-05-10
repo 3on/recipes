@@ -1,4 +1,4 @@
-# Boeuf bourguignon
+# Boeuf Bourguignon
 _even easier with a pressure cooker_
 
 
