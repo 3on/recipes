@@ -12,8 +12,10 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 
 ## Work in Progress
 - Quiche
-- Bourguignon
 - Risotto
 - Crepe de froment (I need to fix the milk amount)
 - Garlic Noodles
 - Agua Fresca
+- Venice's Risotto
+- Coq au vin
+- Chicken tortilla soup
