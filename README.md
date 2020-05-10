@@ -8,6 +8,7 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 - [Waffles](https://github.com/3on/recipes/blob/master/waffles.md)
 - [Reine de Sabat](https://github.com/3on/recipes/blob/master/reine-de-saba.md)
 - [Bouef Bourguignon](https://github.com/3on/recipes/blob/master/boeuf-bourguignon.md)
+- [Chocolate chip cookies](https://github.com/3on/recipes/blob/master/cookies.md)
 
 ## Work in Progress
 - Quiche
