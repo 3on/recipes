@@ -19,3 +19,4 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 - Venice's Risotto
 - Coq au vin
 - Chicken tortilla soup
+- Blanquette de Poulet
