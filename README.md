@@ -12,7 +12,7 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 - [Chocolate chip cookies](https://github.com/3on/recipes/blob/master/cookies.md)
 - [Agua Fresca](https://github.com/3on/recipes/blob/master/agua-fresca.md)
 
-## Work in Progress
+## To be added next
 - Quiche
 - Risotto
 - Crepe de froment (I need to fix the milk amount)
