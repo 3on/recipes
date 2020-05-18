@@ -4,6 +4,7 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 
 ## Battle tested
 - [Lava cake](https://github.com/3on/recipes/blob/master/lava-cakes.md)
+- [Garlic Noodles](https://github.com/3on/recipes/blob/master/garlic-noodles.md)
 - [Tarte aux Pommes](https://github.com/3on/recipes/blob/master/tarte-aux-pommes.md)
 - [Waffles](https://github.com/3on/recipes/blob/master/waffles.md)
 - [Reine de Sabat](https://github.com/3on/recipes/blob/master/reine-de-saba.md)
@@ -14,7 +15,6 @@ A mix of recipes, some are familly recipe, some are the result of trial and impr
 - Quiche
 - Risotto
 - Crepe de froment (I need to fix the milk amount)
-- Garlic Noodles
 - Agua Fresca
 - Venice's Risotto
 - Coq au vin
