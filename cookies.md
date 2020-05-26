@@ -21,7 +21,7 @@ _Ratio for shit tons (60+) cookies, half for a decent batch_
 ![](https://raw.githubusercontent.com/3on/recipes/master/img/cookies-3.jpg)
 5. Make les cookies, form little balls, flatten them, add chocolate chips where needed.
 ![](https://raw.githubusercontent.com/3on/recipes/master/img/cookies-4.jpg)
-6. Bake **10min** at 400F, timing is fucking important, more than anything else here.
+6. Bake **10min** at 400F, timing is fracking important, more than anything else here.
 
 
 
