@@ -12,7 +12,7 @@ _even easier with a pressure cooker_
 - bouquet garni or french herbs
 - a cheap red wine, 2 bucks chuck does the job
 - some butter (1+ sticks)
-- some corn stash
+- some corn starch
 - beef or chicken stock (if you use a pressure cooker you can skip it)
 
 # Steps
