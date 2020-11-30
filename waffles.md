@@ -4,7 +4,7 @@ _AKA for ever growing dough_
 ![](https://raw.githubusercontent.com/3on/recipes/master/img/gauffres-1.jpg)
 
 ## Ingredients for n people*
-_where n is not too big nor too small_
+_where n is not too big nor too small, 2n is too much for 3 people (leftover for days)_
 - 2 eggs
 - 500ml of milk
 - flour 250g
